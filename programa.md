@@ -30,7 +30,7 @@ Si como editor (o administrador de cualquier tipo de documentación) has tenido 
 ## Web del curso:
 
 La web del curso, donde estará disponible la documentación general y los tutoriales en video. se construirá en Jekyll y se hospedará en GitHub Pages utilizando una plantilla personalizada, originalmente creada por P2PU. Un demo se puede ver en:
-<...>
+<https://nastarovia.github.io/course-in-a-box/>
 
 ## Software para instalar ANTES de comenzar el curso
 
@@ -46,7 +46,6 @@ La web del curso, donde estará disponible la documentación general y los tutor
 
 Se asume que todos los participantes tienen inDesign instalado en su sistema y un conocimiento suficientemente de su uso.
 
-## Trabajo requerido para completar con éxito la capacitación
 
 ## Programa del taller
 
