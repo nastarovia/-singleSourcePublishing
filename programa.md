@@ -21,7 +21,7 @@ Si como editor (o administrador de cualquier tipo de documentación) has tenido 
 - Familiarizarse con técnicas de automatización de procesos
 - Familiarizarse con técnicas de publicación de documentación de proyectos
 - Adquirir un background tecnológico mínimo como para entender cómo funcionan y adaptar herramientas no previstas en esta capacitación
--
+
 ## Bibliografía básica
 
 - Al principio fue la línea de comandos, Neil Stephenson (está disponible online en: <https://www.traficantes.net/sites/default/files/pdfs/En%20el%20principio%20fue...-TdS.pdf>), traducido por Asunción Álvarez (2003)
