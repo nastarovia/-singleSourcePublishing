@@ -1,3 +1,8 @@
+---
+layout: main
+title: "Happy Jekylling!"
+---
+
 # Single source publishing (programa)
 
 ## Descripción del curso

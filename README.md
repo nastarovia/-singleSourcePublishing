@@ -1,5 +1,5 @@
 ---
-  layout: main
+  layout: main.html
 ---
 # Single Source Publishing
 Una introducción a la edición digital con MarkDown, Pandoc y GitHub
