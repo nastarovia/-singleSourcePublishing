@@ -2,7 +2,7 @@
 ## Descripción del curso
 X es un taller donde desarrollaremos las competencias básicas necesarias para desarrollar _workflows_ sostenibles de publicación digital multiformato a partir de un único set de archivos. Estudiaremos los conceptos básicos de la publicación digital, como son la separación del contenido y su presentación y la importancia de trabajar con contenido estructurado semánticamente en lenguajes de marcado. Aprenderemos a trabajar con la línea de comandos y a configurar y desarrollar contenido utilizando editores de texto (no es lo mismo que un _procesador de texto_, como MS Word o Libre Office). Exploraremos herramientas avanzadas de conversión de formatos y manipulación de texto (Pandoc) y control de versiones (Git). Aprenderemos a crear y administrar proyectos colaborativos y publicar documentación en la web con Github. Y por último, exploraremos cómo integrar y personalizar estas herramientas dentro de flujos de trabajo automatizados, para ganar en eficiencia y competitividad. Este curso ha sido diseñado para adaptar herramientas avanzadas en edición y publicación digital a las necesidades de editores en general.
 ## Por qué tomar este curso
-Si como editor (o administrador de cualquier tipo de documentación) has tenido alguna vez problemas con [link2tutorial] este taller te entregará herramientas para desarrollar soluciones personalizadas a estos problemas.
+Si como editor (o administrador de cualquier tipo de documentación) has tenido alguna vez problemas con [https://lavoragine.github.io/tutorial/] este taller te entregará herramientas para desarrollar soluciones personalizadas a estos problemas.
 ## Objetivos del curso
 ### General
 - Proporcionar una introducción general al _single source publishing_ (también conocido como *multichanel publishing*), esto es: los flujos de trabajo que parten de un único archivo (o set de archivos) para obtener múltiples formatos de salida. Al final del curso, los participantes serán capaces de crear sus propios flujos de trabajo automatizados para obtener un libro en formato PDF para impresión, un libro electrónico (en formato epub o mobi), y una página web alojada en Github, con máxima eficiencia y sostenibilidad.
@@ -18,7 +18,7 @@ Si como editor (o administrador de cualquier tipo de documentación) has tenido 
 -
 ## Bibliografía básica
 
-- Al principio fue la línea de comandos, Neil
+- Al principio fue la línea de comandos, Neil Stephenson (está disponible online en: <https://www.traficantes.net/sites/default/files/pdfs/En%20el%20principio%20fue...-TdS.pdf>), traducido por Asunción Álvarez (2003)
 - Dennis Tenen y Grant Wythoff, "Escritura sostenible en texto plano usando Pandoc y Markdown", traducido por Víctor Gayol, The Programming Historian en español 1 (2017), https://doi.org/10.46430/phes0008.
 
 ## Web del curso
