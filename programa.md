@@ -59,21 +59,21 @@ El taller está dividido en 8 módulos. La documentación correspondiente a cada
 HTML y CSS
 - Editor de texto vs procesador de texto
 - Introducción a Markdown
--
+
 ### Segundo módulo: Línea de comandos e interacción avanzada con un computador
 
 - La línea de comandos
 - Manipular archivos con el terminal
 - Repositorios y arboles de archivos
 - Utilizar programas desde la linea de comandos
--
+
 ### Tercer módulo: Convertir y manipular formatos de texto
 
 - Convertir formatos de texto con Pandoc
 - Yaml  Metadata Blocks: manipular data en Pandoc
 - Modificar plantillas
 - Trabajar con filtros y procesadores
--
+
 ### Cuarto módulo: Automatización y construcción de flujos de trabajo
 
 
@@ -81,7 +81,7 @@ HTML y CSS
 - Mapear estilos (de Markdown a InDesign)
 - EPUB, HTML y Accesibilidad (Metadata y WAI-ARIA roles)
 - Kindlegen y Amazon Kindle
--
+
 ### Quinto módulo: Control de versiones con GIT
 
 - Git: fundamentos del control de versiones
@@ -94,14 +94,14 @@ Colaboración
 - Sincronizar un repositorio local con un repositorio remoto
 - Colaborar: *Fork* y *Pull request*
 - Administrar proyectos: GitHub Issues y GitHub Proyects
--
+
 ### Septimo módulo: Llevar nuestro *workflow* a la nube
 - Conectar todo: como se crea un _workflow_
 - *Make* file: de MarkDown a PDF en un clic
 - Administrar correcciones y lanzamientos
 - Publicar formatos de libro (PDF, EPUB, mobi)
 - Publicar formatos web (GitHub Wiki, GitHub Pages)
--
+
 ### Octavo módulo:
 - Presentación de proyectos y discusión
 - Conclusiones
