@@ -1,7 +1,25 @@
 (descargar el programa del curso en [PDF](https://drive.google.com/file/d/13BvWvpSgpXSc1BysDr9cMMavre0hEmaY/view?usp=sharing))
 
 
-"Introducción al *Single source publishing*" es un taller donde desarrollaremos las competencias básicas necesarias para desarrollar flujos de trabajo sostenibles de publicación digital multiformato a partir de un único conjunto de archivos. Estudiaremos los conceptos básicos de la publicación digital, como son la separación del contenido y su presentación y la importancia de trabajar con contenido estructurado semánticamente en lenguajes de marcado. Aprenderemos a trabajar con la línea de comandos y a configurar y desarrollar contenido utilizando editores de texto (no es lo mismo que un _procesador de texto_, como MS Word o Libre Office). Exploraremos herramientas avanzadas de conversión de formatos y manipulación de texto (Pandoc) y control de versiones (Git). Aprenderemos a crear y administrar proyectos colaborativos y publicar documentación en la web con GitHub. Y por último, exploraremos cómo integrar y personalizar estas herramientas dentro de flujos de trabajo automatizados, para ganar en eficiencia y competitividad. Este curso ha sido diseñado para adaptar herramientas avanzadas en edición y publicación digital a las necesidades de editores en general. Puede considerarse como una introducción general a la programación diseñada específicamente para editores.
+"Introducción al *Single source publishing*" es un taller donde desarrollaremos las competencias básicas necesarias para desarrollar **_workflows_ sostenibles de publicación digital multiformato** a partir de un único set de archivos.
+
+El propósito  general es aprender a utilizar herramientas y tecnologías que nos permitan  automatizar nuestros procesos y obtener con menos esfuerzo los formatos de salida que necesitemos, mejor estructurados, nacidos accesibles, 
+Estudiaremos los conceptos básicos de la publicación digital, como son la separación del contenido y su presentación y la importancia de trabajar con contenido estructurado semánticamente en lenguajes de marcado y de qué manera estos conceptos nos pueden ayudar a hacer nuestro trabajo más eficiente y accesible.
+
+Aprenderemos a trabajar con la línea de comandos y a configurar y desarrollar contenido utilizando editores de texto (no es lo mismo que un _procesador de texto_, como MS Word o Libre Office), adquiriendo de esta manera elementos clave para explorar por nuestra cuenta otras tecnologías.
+
+Exploraremos herramientas avanzadas de conversión de formatos y manipulación de texto (Pandoc) y control de versiones (Git).
+
+Aprenderemos a crear y administrar proyectos colaborativos y publicar documentación en la web con Github.
+
+Veremos también cómo los lenguajes de etiquetado nos ofrecen una comprensión acerca de cómo funciona la transmisión de metadata relativa a los libros, y cómo planificar una estrategia respecto de nuestra metadata.
+Y por último, exploraremos cómo integrar y personalizar estas herramientas dentro de flujos de trabajo automatizados, para ganar en eficiencia y competitividad.
+
+Este curso ha sido diseñado para adaptar herramientas avanzadas en edición y publicación digital a las necesidades de editores en general.
+
+Y aunque no es un curso de programación, si veremos conceptos básicos de programación aplicados al procesamiento de textos.
+Mi propósito es explicar lo suficiente como funcionan los sistemas integrados de producción editorial como para que los participantes puedan entenderlos, tomar  decisiones y planificar estrategias, proporcionando de paso una buena base para futuras exploraciones en el ámbito de la edición digital.
+
 
 ## Por qué tomar este curso
 
@@ -10,7 +28,7 @@ Si como editor (o administrador de cualquier tipo de documentación) has tenido 
 ## Objetivos del curso
 
 ### General
-- Proporcionar una introducción general al _single source publishing_ (también conocido como *multichanel publishing*), esto es: los flujos de trabajo en edición que parten de un único archivo (o set de archivos) para obtener múltiples formatos de salida. Al final del curso, los participantes serán capaces de crear sus propios flujos de trabajo automatizados para obtener un libro en formato PDF para impresión, un libro electrónico (en formato EPUB o mobi), y una página web alojada en GitHub, con máxima eficiencia y sostenibilidad. De esta manera, los participantes del workshop obtendrán una comprensión general de las  herramientas utilizadas y serán capaces de adaptarlas a sus propias necesidades.
+Proporcionar una introducción general al _single source publishing_ (también conocido como *multichanel publishing* o publicación multicanal), esto es: los flujos de trabajo en edición que parten de un único archivo (o set de archivos) para obtener múltiples formatos de salida, de manera de hacer todo el proceso más eficiente, sostenible y menos propenso al error. Al final del curso, los participantes serán capaces de crear sus propios flujos de trabajo automatizados para obtener un libro en formato PDF para impresión, un libro electrónico (en formato EPUB o mobi), y una página web alojada en GitHub con apenas unos pocos clicks. De esta manera, los participantes del workshop obtendrán una comprensión general de las  herramientas utilizadas y serán capaces de adaptarlas a sus propias necesidades.
 
 ### Específicos
 - Introducir el concepto de la estructuración semántica del texto a través del uso de lenguajes de marcado. O lo que es equivalente: trabajar el concepto básico de la edición digital: la separación entre contenido y su presentación.
@@ -18,7 +36,7 @@ Si como editor (o administrador de cualquier tipo de documentación) has tenido 
 - Aprender a configurar y gestionar un sistema fiable y colaborativo de control de versiones, utilizando plataformas de alto nivel
 - Familiarizarse con técnicas avanzadas de automatización de procesos editoriales
 - Familiarizarse con técnicas de publicación libre de documentación de proyectos
-- Aprender a crear metadata relevante y a diseminarla a través de los sistemas de intercambio de información estandares
+- Aprender a crear Metadata relevante y a diseminarla a través de los sistemas de intercambio de información estándares
 - Comprender los estandares de accesibilidad y cómo producir libros que sean nacidos accesibles
 - Adquirir el _background_ tecnológico necesario para explorar otras herramientas en el vasto ecosistema de desarrollos de software libre e investigar sobre sus posibles implementaciones, lo cual supone, en último termino, obtener la capacidad de innovar a partir de sus realidades específicas.
 
@@ -44,7 +62,7 @@ La web del curso, donde estará disponible la documentación general y los tutor
 - Git
 - GitHub Desktop
 
-Se asume que todos los participantes tienen inDesign instalado en su sistema y un conocimiento suficientemente de su uso.
+Se asume que todos los participantes tienen InDesign instalado en su sistema y un conocimiento suficientemente de su uso.
 
 
 ## Programa del taller
@@ -90,7 +108,7 @@ El taller está dividido en 8 módulos. La documentación correspondiente a cada
 ### Sexto módulo : Colaborar en red con GitHub
 
 - GitHub, una plataforma colaborativa y abierta
-- Sincronizar un repositorio local con un repositorio remoto
+- Como sincronizar un repositorio local con un repositorio remoto
 - Colaborar: *Fork* y *Pull request*
 - Administrar proyectos: GitHub Issues y GitHub Projects
 
@@ -105,3 +123,4 @@ El taller está dividido en 8 módulos. La documentación correspondiente a cada
 ### Octavo módulo:
 - Presentación de proyectos y discusión
 - Conclusiones
+### Una vez terminados los talleres, se ofrecera una clínica personal a cada particpante, para hacer una corrección ersonal de su trabajo.
