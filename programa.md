@@ -97,6 +97,7 @@ El taller está dividido en 8 módulos. La documentación correspondiente a cada
 ### Septimo módulo: Llevar nuestro *workflow* a la nube
 - Conectar todo: llevar nuestro flujo de trabajo a la nube
 - *Make* file: de MarkDown a PDF en un clic
+- Publicar con licencias libres. Qué son y para que sirven.
 - Administrar correcciones y lanzamientos
 - Publicar formatos de libro (PDF, EPUB, mobi)
 - Publicar formatos web (GitHub Wiki, GitHub Pages)
