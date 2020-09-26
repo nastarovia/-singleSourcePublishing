@@ -7,6 +7,7 @@ El objetivo de este curso es ofrecer a los participantes una visión general gen
 - Familiarizar a los participantes con el concepto de *Single source publishing* (también conocido como *multichanel publishing*), esto es: los flujos de trabajo que parten de un único archivo (o set de archivos) para obtener múltiples formatos de salida. Al final del curso, los participantes serán capaces de crear sus propios flujos de trabajo automatizados para obtener un libro en formato PDF para impresión, un libro electrónico (en formato epub o mobi), y una página web alojada en Github, con máxima eficiencia y sostenibilidad.
 
 ## Fundamentación: Debes indicar por qué es necesario realizar este proyecto.
+
 La revolución digital ha transformado el mundo de la edición de libros y de la publicación de contenidos de manera dramática.
 Hace apenas 40 años, la industria del libro en su conjunto estaba definida por su orientación al libro impreso. Y en esencia, funcionaba de una manera parecida a como lo hizo desde la invención de la imprenta.
 
