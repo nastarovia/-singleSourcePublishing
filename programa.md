@@ -93,7 +93,7 @@ El taller está dividido en 8 módulos. La documentación correspondiente a cada
 
 ### Cuarto módulo: Automatización y construcción de flujos de trabajo
 
-- Crear nuestro flujo de trabajo
+- Crear nuestro flujo de trabajo (establecer la secuencia de comandos en Pandoc)
 - Mapear estilos (de Markdown a InDesign)
 - EPUB, HTML y Accesibilidad (Metadata y WAI-ARIA roles)
 - Kindlegen y Amazon Kindle
@@ -123,4 +123,3 @@ El taller está dividido en 8 módulos. La documentación correspondiente a cada
 ### Octavo módulo:
 - Presentación de proyectos y discusión
 - Conclusiones
-### Una vez terminados los talleres, se ofrecera una clínica personal a cada particpante, para hacer una corrección ersonal de su trabajo.
