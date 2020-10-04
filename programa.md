@@ -1,15 +1,13 @@
 (descargar el programa del curso en [PDF](https://drive.google.com/file/d/13BvWvpSgpXSc1BysDr9cMMavre0hEmaY/view?usp=sharing))
 
 
-"Introducción al *Single source publishing*" es un taller donde desarrollaremos las competencias básicas necesarias para desarrollar **_workflows_ sostenibles de publicación digital multiformato** a partir de un único set de archivos.
-
-El propósito  general es aprender a utilizar herramientas y tecnologías que nos permitan  automatizar nuestros procesos y obtener con menos esfuerzo los formatos de salida que necesitemos, mejor estructurados, nacidos accesibles.
+"Taller de introducción a la publicación digital colaborativa, inclusiva y multiformato" es un workshop* donde desarrollaremos las competencias básicas necesarias para automatizar nuestros procesos editoriales y crear libros en distintos formatos de salida a partir de un único archivo. ¿Por que no utilizar o adaptar el software del que disponemos  para que haga por nosotros lo que no queremos hacer y así conseguir tiempo para hacer lo que si queremos: crear mejores contenidos?  El propósito de este taller es dar herramientas para cumplir este propósito.
 
 Estudiaremos los conceptos básicos de la publicación digital, como son la separación del contenido y su presentación y la importancia de trabajar con contenido estructurado semánticamente en lenguajes de marcado y de qué manera estos conceptos nos pueden ayudar a hacer nuestro trabajo más eficiente y nuestros libros más accesibles.
 
 Aprenderemos a trabajar con la línea de comandos y a configurar y desarrollar contenido utilizando editores de texto (no es lo mismo que un _procesador de texto_, como MS Word o Libre Office), adquiriendo de esta manera elementos clave para explorar por nuestra cuenta otras tecnologías.
 
-Exploraremos herramientas avanzadas de conversión de formatos y manipulación de texto (Pandoc) y control de versiones (Git).
+Exploraremos herramientas avanzadas de conversión de formatos y manipulación de texto (Pandoc) y control de versiones (Git): asi siempre tendremos un registro de lo que hemos hecho en nuestros proyectos, y podemos reutilizar nuestros contenidos sin apenas esfuerzo..
 
 Aprenderemos a crear y administrar proyectos colaborativos y publicar documentación en la web con Github.
 
@@ -17,7 +15,7 @@ Veremos también cómo los lenguajes de etiquetado nos ofrecen una comprensión 
 
 Y por último, exploraremos cómo integrar y personalizar estas herramientas dentro de flujos de trabajo automatizados, para ganar en eficiencia y competitividad.
 
-Este curso ha sido diseñado para adaptar herramientas avanzadas en edición y publicación digital a las necesidades de editores en general.
+Este curso ha sido diseñado para adaptar herramientas avanzadas en edición y publicación digital a las necesidades específicas de editores de libros.
 
 Y aunque no es un curso de programación, si veremos conceptos básicos de programación aplicados al procesamiento de textos.
 
@@ -31,7 +29,7 @@ Si te preguntas como hacer mejores libros con menos esfuerzo, y cómo delegar en
 ## Objetivos del curso
 
 ### General
-Proporcionar una introducción general al _single source publishing_ (también conocido como *multichanel publishing* o publicación multicanal), esto es: los flujos de trabajo en edición que parten de un único archivo (o set de archivos) para obtener múltiples formatos de salida, de manera de hacer todo el proceso más eficiente, sostenible y menos propenso al error. Al final del curso, los participantes serán capaces de crear sus propios flujos de trabajo automatizados para obtener un libro en formato PDF para impresión, un libro electrónico (en formato EPUB o mobi), y una página web alojada en GitHub con apenas unos pocos clicks. De esta manera, los participantes del workshop obtendrán una comprensión general de las  herramientas utilizadas y serán capaces de adaptarlas a sus propias necesidades.
+Proporcionar una introducción general al _single source publishing_ (también conocido como *multichanel publishing* o publicación multicanal), esto es: los flujos de trabajo en edición que parten de un único archivo (o set de archivos) para obtener múltiples formatos de salida, de manera de hacer todo el proceso más eficiente, sostenible y ajeno al error. Al final del curso, los participantes serán capaces de crear sus propios flujos de trabajo automatizados para obtener un libro en formato PDF para impresión, un libro electrónico (en formato EPUB o mobi), y una página web alojada en GitHub con apenas unos pocos clicks. De esta manera, los participantes del workshop obtendrán una comprensión general de las  herramientas utilizadas y serán capaces de adaptarlas a sus propias necesidades.
 
 ### Específicos
 
@@ -68,7 +66,9 @@ La web del curso, donde estará disponible la documentación general y los tutor
 - Git
 - GitHub Desktop
 
-El único requisito es que todos los participantes tengan InDesign instalado en su sistema operativo y un conocimiento de su uso.
+## Requisitos
+
+El único prerrequisito es que todos los participantes tengan InDesign instalado en su sistema operativo y un conocimiento de su uso.
 
 
 ## Programa del taller
@@ -77,11 +77,11 @@ El taller está dividido en 8 módulos. La documentación correspondiente a cada
 
 ### Primer módulo:   _Single source publishing_. Lenguajes de marcado y contenido estructurado
 
-- Un libro es estructura, contenido, y presentación
-- Qué es un lenguaje de marcado (o etiquetado)
-- fundamentos de HTML y CSS
-- Editor de texto vs procesador de texto
-- Introducción a Markdown
+- El libro como estructura, contenido, y presentación
+- Qué es un lenguaje de marcado (o etiquetado) y para qué sirve
+- Fundamentos de HTML y CSS
+- Por que utilizar un editor de texto y no un procesador de texto
+- Introducción práctica a Markdown: cómo etiquetar nuestro documentos de manera sencilla
 
 ### Segundo módulo: Línea de comandos e interacción avanzada con un computador
 
@@ -89,11 +89,12 @@ El taller está dividido en 8 módulos. La documentación correspondiente a cada
 - Manipular archivos con el terminal
 - Repositorios y arboles de archivos
 - Utilizar programas desde la línea de comandos
+- Otros trucos.
 
 ### Tercer módulo: Convertir y manipular formatos de texto
 
 - Convertir formatos de texto con Pandoc
-- Yaml  Metadata Blocks: cómo manipular metadata en Pandoc
+- YAML  Metadata Blocks: cómo manipular metadatos en Pandoc
 - Como trabajar con plantillas preprogramadas y cómo adaptarlas
 - Trabajar con filtros y preprocesadores de texto
 
@@ -101,7 +102,7 @@ El taller está dividido en 8 módulos. La documentación correspondiente a cada
 
 - Crear nuestro flujo de trabajo (establecer la secuencia de comandos en Pandoc)
 - Mapear estilos de Markdown a InDesign
-- EPUB, HTML y Accesibilidad (Metadata y WAI-ARIA roles)
+- EPUB, HTML y Accesibilidad (Metadatos y WAI-ARIA roles)
 - Integrar Kindlegen para producir archivos para Amazon Kindle
 
 ### Quinto módulo: Control de versiones con GIT
@@ -109,7 +110,6 @@ El taller está dividido en 8 módulos. La documentación correspondiente a cada
 - Git: fundamentos del control de versiones
 - Registrar y administrar cambios
 - Crear y fusionar versiones de un proyecto
-
 
 ### Sexto módulo : Colaborar en red con GitHub
 
